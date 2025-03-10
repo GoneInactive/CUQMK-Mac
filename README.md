@@ -1,6 +1,6 @@
-## CUSTARD MAC EDITION 
+# CUSTARD MAC EDITION 
 
-# Issues with Mac permissions?
+## Issues with Mac permissions?
 
 Open terminal and run this command: 
 
