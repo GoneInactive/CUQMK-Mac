@@ -5,5 +5,5 @@
 Open terminal and run this command: 
 
 ``` 
-xattr -r -d com.apple.quarantine ~/Downloads
+xattr -r -d com.apple.quarantine ~/CUQMK-Mac
 ``` 
